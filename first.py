@@ -1,0 +1,7 @@
+print("Hello Python")
+print(2 + 3)
+print(2 ** 3)
+print("สวัสดี", end="")
+print("ชาวไพธอน")
+print("Hello Python!\n" * 4)
+print(sum(range(1, 100)))
